@@ -9,14 +9,12 @@
 
 ## <img src=".github/assets/fktn.png">Overview
 This reposition is a fusion of two framework:
-- **Localify**  
-  [GitHub Release v3.0.0Beta](https://github.com/chinosk6/gakuen-imas-localify/releases/tag/v3.0.0Beta)
+- **Localify** [GitHub Release v3.0.0Beta](https://github.com/chinosk6/gakuen-imas-localify/releases/tag/v3.0.0Beta)
 - **[prebuilt Bepinex from Priconne Re:TL project](https://github.com/ImaterialC/PriconneRe-TL)**:
   - XUnity Auto Translate
   - Application resizing
   - Forced full screen (Alt+Enter)
-
-This patch builds upon Localify by adding crucial functionalities that were previously missing.
+This patch builds upon Localify by adding crucial functionalities that were missing.
 
 ## <img src=".github/assets/hski.png">Project Goals
 The main objectives of this project are:
