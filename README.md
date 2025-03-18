@@ -7,13 +7,11 @@
 <br>
 </h2>
 
-# English Patch for Gakuen Idolmaster (DMM Version)
-
 ## Overview
 This reposition is a fusion of two framework:
 - **Localify**  
   ([GitHub Release v3.0.0Beta](https://github.com/chinosk6/gakuen-imas-localify/releases/tag/v3.0.0Beta))
-- **prebuilt Bepinex from Priconne Re:TL project**:
+- **([prebuilt Bepinex from Priconne Re:TL project](https://github.com/ImaterialC/PriconneRe-TL)**:
   - XUnity Auto Translate
   - Application resizing
   - Forced full screen (Alt+Enter)
