@@ -1,0 +1,51 @@
+メニュー=Menu
+データ連携=Data Link
+プロデューサーID: タップで表示=Producer ID: Tap to display
+決定=OK
+閉じる=Close
+お心当たりが無い場合は、お手数ですがサポートまで\nお問い合わせください。=If you don't recognize this, please contact support.
+解除予定時刻：YYYY/MM/DD hh:mm:ss=Release time: YYYY/MM/DD hh:mm:ss
+DMM GAME PLAYERから起動してください=Please start from DMM GAME PLAYER
+初期化エラー=Initialization error
+キャッシュクリア=Clear cache
+お問い合わせ=Contact us
+グラフィック設定=Graphics Settings
+ユーザーデータ削除=User Data Deletion
+公式X（旧Twitter）=Official X(Twitter)
+標準=Standard
+高=High
+推奨=Rec
+最高=Best
+品質設定=Quality Setting
+簡易=Simple
+・画質を上げると動作が重くなり、消費電力が増える可能性があります。\n・画質設定を優先する場合、フレームレートを30fpsにすることを推奨します。=・Increasing the image quality may slow down the operation and increase power consumption. \n・If you prioritize image quality settings, we recommend setting the frame rate to 30 fps.
+※ゲーム内ではより詳細な設定を行えます=※More detailed settings can be made in the game.
+フレームレート=Frame rate
+数値が高いほうがなめらかに表示されます。\nフレームレートを優先する場合、品質設定を1段階下げることを推奨します。=The higher the number, the smoother the display. \nIf you want to prioritize frame rate, we recommend lowering the quality setting by one level.
+垂直同期=V-Sync
+・ONにするとフレームレートの選択ができません。\n※DMM GAMES版のみ=・If you turn it on, you will not be able to select the frame rate. \n ※DMM GAMES version only
+キャンセル=Cancel
+保存=Save
+画面サイズ=Screen size
+
+
+すでに学園アイドルマスターをプレイしているアカウントがある場合は連携を選択してください。=If you already have an account playing Gakuen Idolmaster, please select Link.
+※有償ジュエルは異なるプラットフォームに連携することはできません。購入したプラットフォームでのみ使用することが可能です。\n※無償ジュエルは異なるプラットフォームに連携することが可能です。=※Paid jewels cannot be linked to different platforms. They can only be used on the platform they were purchased on.\n※Free jewels can be linked to different platforms.
+連携=Link
+プロデューサーID=Producer ID
+ログインしたアカウントとは以下のゲームデータが\n連携しています。\nこのゲームデータと連携しますか？=The following game data is linked\nto the logged-in account.\nDo you want to link this game data?
+データ連携確認=Data link confirmation
+連携する=Confirm
+
+データ連携が完了しました。\nタイトルへ戻ります。=Data link complete.\nReturning to the title.
+データ連携完了=Data link complete
+
+セットアップ中…=Setting up…
+全ての字幕を表示=Show all subtitles
+FAQページを開きますか？\n※Webブラウザが立ち上がります=Would you like to open the FAQ page?\n※A web browser will open.
+キャッシュデータを削除すると動作が軽くなることが\nあります。\nプレイ中のゲームデータは削除されません。\nキャッシュデータをクリアしてもよろしいですか？=Deleting the cache data may make the game run faster. \nThe game data you are currently playing will not be deleted. \nAre you sure you want to clear the cache data?
+IDをコピー=Copy ID
+お客様のユーザーID=Customer user ID
+お問い合わせには、お客様のIDが必要になります。\nユーザーIDをコピーしてお問い合わせください。=To make an inquiry, we will need your ID. \nPlease copy your user ID and contact us.
+IDをコピーしました=ID copied
+公式X（旧Twitter）のページを開きますか？\n※Webブラウザが立ち上がります=Would you like to open the official X (Twitter) page?\n※A web browser will open.

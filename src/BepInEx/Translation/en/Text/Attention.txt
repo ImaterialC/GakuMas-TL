@@ -1,0 +1,7 @@
+ご注意=GakuMas:TL project Present
+このアプリは無料で遊ぶことができますが、\n一部有料のコンテンツがあります。=This TL patch is still in WiP,\nthere are many bugs and it must be bridged by the existing TL from localify.
+未成年の方へ=For minors
+未成年の方が有料コンテンツを購入する場合は、 \n必ず法定代理人（ご両親等）の同意を得てから\n購入してください。=If a minor buys paid content, be sure to purchase it with the consent of a legal representative (such as your parents).
+※ないようがわからないときは\nおうちのひとにがめんをみせてください。=*If you don't know what it looks like, please show it to the person at home.
+この作品はフィクションです。\n実在の人物、団体、事件などには関係ありません。=This work is fiction. It has nothing to do with real people, organizations, or incidents.
+このアプリは音声が再生されます。\n音量にご注意ください。=This app plays audio. Please be careful of the volume.
