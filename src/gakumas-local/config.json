@@ -1,0 +1,7 @@
+{
+    "enableConsole": true,
+    "transRemoteZipUrl": "https://github.com/NatsumeLS/Gakumas-Translation-Data-EN.git",
+    "useAPIAssets": false,
+    "useAPIAssetsURL": "https://api.github.com/repos/NatsumeLS/Gakumas-Translation-Data-EN/releases/latest",
+    "useRemoteAssets": true
+}
