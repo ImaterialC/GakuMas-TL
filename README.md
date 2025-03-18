@@ -14,6 +14,8 @@ This reposition is a fusion of two framework:
   - XUnity Auto Translate
   - Application resizing
   - Forced full screen (Alt+Enter)<br>
+  
+  
 This patch builds upon Localify by adding crucial functionalities that were missing.
 
 ## <img src=".github/assets/hski.png">Project Goals
