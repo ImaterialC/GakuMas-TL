@@ -49,3 +49,11 @@ IDをコピー=Copy ID
 お問い合わせには、お客様のIDが必要になります。\nユーザーIDをコピーしてお問い合わせください。=To make an inquiry, we will need your ID. \nPlease copy your user ID and contact us.
 IDをコピーしました=ID copied
 公式X（旧Twitter）のページを開きますか？\n※Webブラウザが立ち上がります=Would you like to open the official X (Twitter) page?\n※A web browser will open.
+
+
+sr:"^(12月)(\d+日)(\(金\))([0-9:]+)からメンテナンスを行いますaaaa$"=Maintenance will take place from $4 on $3, $1 $2.
+
+
+終了間近の\nイベントあり=There is an event\nthat will end
+r:"^課題(\d+)クリア$"=Task $1 complete
+天使の微笑み７８９０１２=The Angel's Smile 789012

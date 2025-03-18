@@ -1,0 +1,5 @@
+
+SR以上1枚確定=One SR or higher guarantee
+期限なし=No time limit
+r:"^([0-9/ :]+)まで$"=until $1
+SSR確定=SSR guarantee

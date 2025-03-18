@@ -1,0 +1,6 @@
+r:"^あと(\d+)日$"=$1d left
+r:"^あと(\d+)時間$"=$1h left
+r:"^あと(\d+)分$"=$1m left
+r:"^(\d+)日 (\d+)時間$"=$1d $2h
+
+プランジールのアイドルを1回プロデュースしよう=Let's produce a Plansire idol once

@@ -1,0 +1,64 @@
+
+ジール
+衣装・付き!
+
+Below are the translations for the provided settings from Japanese to English, formatted for use with XUnityAutoTranslation in Princess Connect Re:Dive. Each line is translated individually, with "=" separating the original Japanese text from its English translation. Line breaks within the text (marked by "\n") are preserved as they appear in the game.
+
+
+撮影設定確認=Photo Shooting Setting Confirmation  
+【撮影】確認メッセージの表示=Display confirmation message for [Photo Shooting]  
+この項目をONにすると、アイドル撮影でジェスチャー操作のカメラの動きが反転するようになります=When this option is ON, the camera movement in idol photo shooting will be inverted for gesture operations  
+左右アングルの反転=Invert left and right angles  
+上下アングルの反転=Invert up and down angles  
+この項目をONにすると、コンテストに挑戦できる場合、設定した時間に通知されます。=When this option is ON, you will be notified at the set time when you can challenge a contest.  
+コンテスト未挑戦=Unchallenged Contest  
+この項目をONにすると、デイリーミッションを達成していない場合、設定した時間に通知されます。=When this option is ON, you will be notified at the set time if you have not completed your daily missions.  
+すべての撮影設定をランダムにする場合の確認メッセージを表示します。=Display a confirmation message when randomizing all photo shooting settings.  
+アイドル設定確認=Idol Setting Confirmation  
+アイドルの衣装と髪型の設定をランダムにする場合の確認メッセージを表示します。=Display a confirmation message when randomizing idol costumes and hairstyles.  
+衣装設定確認=Costume Setting Confirmation  
+衣装設定をランダムにする場合の確認メッセージを表示します。=Display a confirmation message when randomizing costume settings.  
+髪型設定確認=Hairstyle Setting Confirmation  
+髪型設定をランダムにする場合の確認メッセージを表示します。=Display a confirmation message when randomizing hairstyle settings.  
+アイドル撮影フォト保存完了確認=Idol Photo Shooting Photo Save Completion Confirmation  
+アイドル撮影フォト保存完了後の確認メッセージを表示します。=Display a confirmation message after saving the idol photo shooting photo.  
+縦画面撮影確認=Vertical Screen Photo Shooting Confirmation  
+縦画面撮影を開始する際に確認メッセージを表示します。=Display a confirmation message when starting vertical screen photo shooting.  
+撮影設定=Photo Shooting Settings  
+撮影ボタンを押したときに撮影をするタイミングを選択できます=You can choose the timing for taking a photo when the shooting button is pressed  
+押したとき=When pressed  
+離したとき=When released  
+長押しから離したときにも撮影する=Also take a photo when releasing after a long press  
+メモリー合成確認設定=Memory Synthesis Confirmation Settings  
+メモリー合成確認=Memory Synthesis Confirmation  
+メモリー合成実行時に実行確認メッセージを表示します。=Display a confirmation message when executing memory synthesis.  
+デイリー交換所設定=Daily Exchange Shop Settings  
+この項目をONにすると、デイリー交換所でのデフォルト交換回数が交換できる最大値になります。=When this option is ON, the default exchange count in the daily exchange shop will be set to the maximum exchangeable value.  
+サークル設定=Circle Settings  
+サークルメンバーにアイテムを寄付する際に確認メッセージを表示します。=Display a confirmation message when donating items to circle members.  
+この項目をONにすると、毎月合計で50,000ptを超える購入をしようとした場合に、アラートが表示されるようになります。=When this option is ON, an alert will be displayed if you attempt to make purchases totaling over 50,000 points per month.  
+画面のサイズを変更できます。\n※DMM GAMES版のみ=You can change the screen size.\n※Only for DMM GAMES version.  
+DMM GAMES版ではご利用いただけません=Not available in the DMM GAMES version  
+初期設定=Default Settings  
+親愛度コミュやプロデュースコミュなどで、設定された速度でテキストが表示されます=In affection communications and produce communications, text will be displayed at the set speed  
+スキルカードのカスタマイズを実行をする時に確認メッセージを表示します。=Display a confirmation message when customizing skill cards.  
+特別指導実行確認=Special Training Execution Confirmation  
+Pポイントが少ない場合、特別指導を開始する時に確認メッセージを表示します。=Display a confirmation message when starting special training if P points are low.  
+特別指導開始確認=Special Training Start Confirmation  
+相談リフレッシュするときに確認メッセージを表示します。=Display a confirmation message when refreshing consultations.  
+相談リフレッシュ確認=Consultation Refresh Confirmation  
+Pポイントが少ない場合、相談を開始する時に確認メッセージを表示します。=Display a confirmation message when starting a consultation if P points are low.  
+スキルカードに影響するサポートイベント効果を戻す時に確認メッセージを表示します。=Display a confirmation message when reverting support event effects that affect skill cards.  
+サポートイベント効果確認=Support Event Effect Confirmation  
+スキルカード/Pドリンクの効果が発動しないときに\n確認メッセージを表示します。=Display a confirmation message when skill card/P drink effects do not activate.  
+スキルカード/Pドリンク使用確認=Skill Card/P Drink Usage Confirmation  
+演出スキップ設定の確認メッセージを表示します。=Display a confirmation message for performance skip settings.  
+演出スキップ設定=Performance Skip Settings  
+※親愛度コミュ自体はスキップされません=※Affection communications themselves will not be skipped  
+親愛度コミュ内の\n映像スキップ=Skip videos within\naffection communications  
+定期公演『初』の「気になる\n様子」コミュスキップ=Skip the 'Curious\nState' communication in the regular performance 'First'  
+各プロデュース開始時の\n説明コミュスキップ=Skip explanatory\ncommunications at the start of each production  
+サポートイベントの効果までスキップする\n※サポートイベントの効果に影響はありません=Skip up to the support event effects\n※Does not affect the support event effects  
+サポートイベントの\nコミュスキップ=Skip support event\ncommunications  
+みたことのある演出のスキップが設定できます\n※みたことのない演出の場合、ONになっていても\nスキップされません=You can set skips for performances you have seen before\n※If it is a performance you have not seen, it will not be skipped even if the option is ON  
+【プロデュース】演出スキップ設定=[Production] Performance Skip Settings  
