@@ -7,7 +7,7 @@
 <br>
 </h2>
 
-# English Patch for Gakuen Idolmaster (DMM Translation Patch)
+# English Patch for Gakuen Idolmaster (DMM Version)
 
 ## Overview
 This reposition is a fusion of two framework:
