@@ -1,0 +1,14 @@
+r:"^残り(\d+)個$"=$1 left
+ロジックガシャ（毎月1日 5時00分更新）=Logic Gacha (Updated at 5:00 on the 1st of every month)
+センスガシャ（毎月1日 5時00分更新）=Sense Gacha (Updated at 5:00 on the 1st of every month)
+フレンドガシャ（毎月1日 5時00分更新）=Friend Gacha (Updated at 5:00 on the 1st of every month)
+アノマリーガシャ（毎月1日 5時00分更新）=Anomaly Gacha (Updated at 5:00 on the 1st of every month)
+
+
+Consume Logic Coin\nto draw ロジックガシャ（毎月1日 5時00分更新）?=Consume Logic Coin to draw Logic Gacha\n(Updated at 5:00 on the 1st of every month)
+Consume Sense Coin\nto draw センスガシャ（毎月1日 5時00分更新）?=Consume Sense Coin to draw Sense Gacha\n(Updated at 5:00 on the 1st of every month)
+Consume Anomaly Coin\nto draw アノマリーガシャ（毎月1日 5時00分更新）?=Consume Anomaly Coin to draw Anomaly Gacha\n(Updated at 5:00 on the 1st of every month)
+Consume Friend Coin\nto draw フレンドガシャ（毎月1日 5時00分更新）?=Consume Friend Coin to draw Friend Gacha\n(Updated at 5:00 on the 1st of every month)
+
+
+r:"^初星学園課題(\d+)達成で解放$"=Unlocked after completing Hatsuboshi Academy Task $1

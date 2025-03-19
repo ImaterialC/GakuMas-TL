@@ -1,0 +1,5 @@
+テスト=Test
+好印象+=Good impression+
+やる気+=Motivation+
+消費体力減少+=Reduced stamina consumption+
+カード=Cards
