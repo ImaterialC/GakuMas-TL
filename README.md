@@ -2,8 +2,7 @@
 
 <img src=".github/assets/logo.png" style="vertical-align: bottom">
 
- [![Discord](https://img.shields.io/discord/1348976841876045845?color=blue&labelColor=555555&label=discord&logo=discord&style=flat)](https://discord.gg/fNVaf44vuE "Discord") [![BepInEx](https://img.shields.io/badge/-BepInEx-yellow.svg?logo=unity&labelColor=555555&style=flat)](https://github.com/BepInEx/BepInEx "BepInEx") [![AutoTranslator](https://img.shields.io/badge/-AutoTranslator-orange.svg?logo=unity&labelColor=555555&style=flat)](https://github.com/bbepis/XUnity.AutoTranslator "AutoTranslator") [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
-<i>An English patch for Gakuen Idolmaster DMM version!</i><br>
+<br>
 <br>
 </h2>
 
@@ -29,7 +28,6 @@ The main objectives of this project are:
 
 ## <img src=".github/assets/kcna.png">Installation
 Download this repo and extract it, make sure the following are in the same folder as the game executable:
-- `version.dll`
 - `version.dll`
 - `winhttp.dll`
 - `doorstop_config.ini`
