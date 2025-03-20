@@ -43,6 +43,4 @@ The initial run of the patch may take several minutes. This is normal, as the sy
 ## <img src=".github/assets/jsna.png">Contributing
 Contributions, bug reports, and feature requests are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
 or dm CorneliaC at discord
-
-
-[![ko-fi](https://img.shields.io/badge/_-kofi-red.svg?logo=kofi&labelColor=555555&style=for-the-badge)](https://ko-fi.com/E1E5HG8RP  "ko-fi: PayPal or Stripe direct or subscribe plan") [![saweria](https://img.shields.io/badge/_-Saweria.co-red.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge)](https://saweria.co/imaterial "Local IDR currency support") [![patreon](https://img.shields.io/badge/_-Patreon-red.svg?logo=patreon&labelColor=555555&style=for-the-badge)](https://patreon.com/imaterial "patreon")[![PayPal](https://img.shields.io/badge/_-PayPal-red.svg?logo=PayPal&labelColor=555555&style=for-the-badge)](https://payPal.me/CorneliaCrimson "no deductions, messages go to my smartphone's notifications")
+notifications")
