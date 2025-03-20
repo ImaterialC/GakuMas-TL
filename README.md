@@ -2,7 +2,7 @@
 
 <img src=".github/assets/logo.png" style="vertical-align: bottom">
 
- [![Discord](https://img.shields.io/discord/1348976841876045845?color=blue&labelColor=555555&label=discord&logo=discord&style=flat)](https://discord.gg/fNVaf44vuE "Discord") [![BepInEx](https://img.shields.io/badge/-BepInEx-yellow.svg?logo=unity&labelColor=555555&style=flat)](https://github.com/BepInEx/BepInEx "BepInEx") [![AutoTranslator](https://img.shields.io/badge/-AutoTranslator-orange.svg?logo=unity&labelColor=555555&style=flat)](https://github.com/bbepis/XUnity.AutoTranslator "AutoTranslator") [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Donate](https://img.shields.io/badge/_-donate-red.svg?logo=githubsponsors&labelColor=555555&style=flat)](#-donation "Donate")<br>
+ [![Discord](https://img.shields.io/discord/1348976841876045845?color=blue&labelColor=555555&label=discord&logo=discord&style=flat)](https://discord.gg/fNVaf44vuE "Discord") [![BepInEx](https://img.shields.io/badge/-BepInEx-yellow.svg?logo=unity&labelColor=555555&style=flat)](https://github.com/BepInEx/BepInEx "BepInEx") [![AutoTranslator](https://img.shields.io/badge/-AutoTranslator-orange.svg?logo=unity&labelColor=555555&style=flat)](https://github.com/bbepis/XUnity.AutoTranslator "AutoTranslator") [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
 <i>An English patch for Gakuen Idolmaster DMM version!</i><br>
 <br>
 </h2>
