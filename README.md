@@ -1,12 +1,4 @@
-<h2 align="center">
-
-<img src=".github/assets/logo.png" style="vertical-align: bottom">
-
-<br>
-<br>
-</h2>
-
-## <img src=".github/assets/fktn.png">Overview
+## Overview
 This reposition is a fusion of two framework:
 - **Localify** [GitHub Release v3.0.0Beta](https://github.com/chinosk6/gakuen-imas-localify/releases/tag/v3.0.0Beta)
 - **[prebuilt Bepinex from Priconne Re:TL project](https://github.com/ImaterialC/PriconneRe-TL)**:
@@ -20,11 +12,6 @@ This patch builds upon Localify by adding crucial functionalities that were miss
 ## <img src=".github/assets/hski.png">Project Goals
 The main objectives of this project are:
 - **Texture Translation:**  
-  Extend translation support to include textures, which Localify does not cover.
-- **Improved Variable Translation:**  
-  Integrate Xuat’s translation method that, while not as polished as Localify in overall quality, excels in using regular expressions to handle the game’s numerous variables more effectively.
-- **Implemet Auto Translation:**  
-  Utilize multiple machine translation engines you can chose including SugoiofflineTranslate.
 
 ## <img src=".github/assets/kcna.png">Installation
 Download this repo and extract it, make sure the following are in the same folder as the game executable:
